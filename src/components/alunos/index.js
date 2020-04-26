@@ -3,6 +3,7 @@ import ContentHeader from './../../common/template/contentHeader';
 import Content from './../../common/template/content';
 import List from './list';
 import Form from './form';
+import './style.css';
 
 export default class Alunos extends Component {
     render(){

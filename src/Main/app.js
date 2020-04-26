@@ -1,5 +1,6 @@
 import React from 'react'
 import './../common/template/dependecies';
+import './../common/template/custom.css';
 
 import Header from './../common/template/header';
 import Sidebar from './../common/template/sidebar';

@@ -1,0 +1,9 @@
+.btn {
+    position: fixed;
+    margin-top: 25px;
+}
+
+.thead-dark {
+    background-color: '#0000' !important;
+    color: #fff
+}
